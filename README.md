@@ -1,5 +1,8 @@
 ### Welcome 👋
 
+[![An image of @wesleycharlesblake's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wesleycharlesblake)](https://holopin.io/@wesleycharlesblake)
+
+
 ![WesleyCharlesBlake's github stats](https://github-readme-stats.vercel.app/api?username=WesleyCharlesBlake&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
